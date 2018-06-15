@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": "pabloacevedo",
+    "database": "store_bd",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "pabloacevedo",
+    "database": "store_bd",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
