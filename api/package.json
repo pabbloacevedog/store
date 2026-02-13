@@ -18,10 +18,10 @@
   },
   "dependencies": {
     "bcrypt": "^2.0.1",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.4",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
-    "express": "5.0.0-alpha.6",
+    "express": "5.1.0",
     "express-graphql": "^0.6.12",
     "graphql": "git://github.com/graphql/graphql-js.git#npm",
     "jsonwebtoken": "^8.2.1",
